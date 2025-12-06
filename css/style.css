@@ -1,0 +1,183 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding-bottom: 50px;
+    background: #fafafa;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #0d6efd;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#category-menu {
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+#category-menu ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.category {
+    margin-bottom: 10px;
+}
+
+.cat-title {
+    font-weight: bold;
+    cursor: pointer;
+    color: #0d6efd;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.books-list {
+    display: none;
+    margin-left: 15px;
+}
+
+.books-list li a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin: 2px 0;
+}
+
+.books-list li a:hover {
+    color: #0d6efd;
+}
+
+#book-container {
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.book-entry {
+    padding: 15px;
+    margin-bottom: 20px;
+    background: #fff;
+    border-left: 4px solid #0d6efd;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    word-wrap: break-word;
+}
+
+.book-entry .footnote {
+    margin-top: 10px;
+    padding-top: 5px;
+    border-top: 2px solid #0d6efd;
+    color: #555;
+}
+
+#pagination {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#pagination button {
+    margin: 2px;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border: 1px solid #0d6efd;
+    border-radius: 5px;
+    background: #fff;
+    color: #0d6efd;
+}
+
+#pagination button:hover:not(:disabled) {
+    background: #0d6efd;
+    color: #fff;
+}
+
+#pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.current-page {
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.book-column {
+    background: #fff;
+    padding: 15px;
+    border-left: 4px solid #0d6efd;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    line-height: 1.5;
+    min-height: 300px;
+}
+
+.book-column.hidden {
+    display: none;
+}
+
+/* Optional: keep footnotes styled */
+.book-footnote {
+    margin-top: 10px;
+    padding-top: 5px;
+    border-top: 2px solid #0d6efd;
+    color: #555;
+}
+/* ---------------------------- */
+/* English text styling         */
+/* ---------------------------- */
+.book-column:not(.ar-text) .book-text,
+.book-column:not(.ar-text) p.en-para {
+    text-align: justify;
+    font-family: "Publico Text", Georgia, serif;
+    margin-bottom: 1em; /* spacing between paragraphs */
+}
+
+/* ---------------------------- */
+/* Arabic text styling          */
+/* ---------------------------- */
+.book-column.ar-text .book-text,
+.book-column.ar-text p.ar-para {
+    direction: rtl;
+    text-align: right;
+    font-family: "Arial", "Tahoma", sans-serif;
+    margin-bottom: 1em; /* spacing between paragraphs */
+}
+
+/* ---------------------------- */
+/* Title / First Page Styling   */
+/* ---------------------------- */
+.book-title-page {
+    font-size: 3em;          /* Very large font */
+    font-weight: bold;
+    color: #d63384;          /* Eye-catching color */
+    text-align: center;
+    margin: 40px 0 20px 0;
+}
+
+.book-title-page .author,
+.book-title-page .author-year {
+    font-size: 1.5em;        /* Slightly smaller for author */
+    font-weight: normal;
+    color: #6f42c1;
+    margin: 10px 0;
+}
+
+.book-title-page .metadata {
+    font-size: 1.2em;
+    color: #198754;
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+/* Optional: center footnotes for first pages */
+.book-title-page .footnote {
+    text-align: center;
+    margin-top: 20px;
+}

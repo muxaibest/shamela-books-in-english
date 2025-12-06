@@ -1,0 +1,202 @@
+[
+  {
+    "book_id": "10272",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "The Comprehensive [Book] on Defects and Knowledge of Men by Ahmad bin Hanbal",
+    "book_title_ar": "الجامع في العلل ومعرفة الرجال لأحمد بن حنبل"
+  },
+  {
+    "book_id": "1028",
+    "category_id": "13",
+    "category_en": "Logic",
+    "category_ar": "المنطق",
+    "book_title_en": "The Approximation of the Definition of Logic and Introduction to it with Common Expressions and Jurisprudential Examples",
+    "book_title_ar": "التقريب لحد المنطق والمدخل إليه بالألفاظ العامية والأمثلة الفقهية"
+  },
+  {
+    "book_id": "10495",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "The Adornment of the Saints and the Ranks of the Chosen Ones (Hilyat al-Awliya wa Tabaqat al-Asfiya)",
+    "book_title_ar": "حلية الأولياء وطبقات الأصفياء"
+  },
+  {
+    "book_id": "10808",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Al-Buldan (The Countries)",
+    "book_title_ar": "البلدان"
+  },
+  {
+    "book_id": "11269",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Rihlat al-Sirafi (Al-Sirafi's Journey)",
+    "book_title_ar": "رحلة السيرافي"
+  },
+  {
+    "book_id": "11568",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Akam al-Marjan fi Dhikr al-Mada'in al-Mashhurah fi Kul Makan (Hills of Coral in Mentioning Famous Cities Everywhere)",
+    "book_title_ar": "آكام المرجان في ذكر المدائن المشهورة في كل مكان"
+  },
+  {
+    "book_id": "11655",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Verification of What is Said About India, Accepted by Reason or Rejected",
+    "book_title_ar": "تحقيق ما للهند من مقولة مقبولة في العقل أو مرذولة"
+  },
+  {
+    "book_id": "11772",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Journey of Ibn Fadlan to the Land of the Turks, Rus, and Saqaliba",
+    "book_title_ar": "رحلة ابن فضلان إلى بلاد الترك والروس والصقالبة"
+  },
+  {
+    "book_id": "11800",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Al-Masalik wa al-Mamalik",
+    "book_title_ar": "المسالك والممالك"
+  },
+  {
+    "book_id": "12521",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Description of the Arabian Peninsula (Sifat Jazirat al-Arab)",
+    "book_title_ar": "صفة جزيرة العرب"
+  },
+  {
+    "book_id": "12",
+    "category_id": "3",
+    "category_en": "Tafsir",
+    "category_ar": "التفسير",
+    "book_title_en": "The Rectifications of Al-Samin Al-Halabi in Al-Durr Al-Masun upon Ibn Atiyyah regarding Readings, Interpretation, and Quranic Parsing: Collection and Study",
+    "book_title_ar": "استدراكات السمين الحلبي في الدر المصون على ابن عطية في القراءات والتفسير وإعراب القرآن جمعًا ودراسة"
+  },
+  {
+    "book_id": "20868",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "The Comprehensive Collection of Imam Ahmad's Sciences - Defects of Hadith",
+    "book_title_ar": "الجامع لعلوم الإمام أحمد - علل الحديث"
+  },
+  {
+    "book_id": "2331",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "Al-'Ilal wa Ma'rifat al-Rijal (The Defects and Knowledge of Men)",
+    "book_title_ar": "العلل ومعرفة الرجال"
+  },
+  {
+    "book_id": "25873",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "Questions of Abu Bakr Ahmad bin Muhammad bin Hani al-Athram to Abu Abd Allah Ahmad bin Muhammad bin Hanbal",
+    "book_title_ar": "من سؤالات أبي بكر أحمد بن محمد بن هانئ الأثرم أبا عبد الله أحمد بن محمد بن حنبل"
+  },
+  {
+    "book_id": "30310",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Hadiths of Yazid bin Abi Habib Al-Masri (died 129 AH) - Narrated by Al-Layth bin Sa'd Al-Masri",
+    "book_title_ar": "أحاديث يزيد بن أبي حبيب المصري (ت ١٢٩ هـ) - برواية الليث بن سعد المصري"
+  },
+  {
+    "book_id": "5722",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Virtues of Makkah and Dwelling Therein",
+    "book_title_ar": "فضائل مكة والسكن فيها"
+  },
+  {
+    "book_id": "5945",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "Questions of Abu Dawud to Imam Ahmad bin Hanbal regarding the Disparagement and Praise of Narrators",
+    "book_title_ar": "سؤالات أبي داود للإمام أحمد بن حنبل في جرح الرواة وتعديلهم"
+  },
+  {
+    "book_id": "5947",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "Questions of Muhammad bin Uthman bin Abi Shaybah to Ali bin al-Madini",
+    "book_title_ar": "سؤالات محمد بن عثمان بن أبي شيبة لعلي بن المديني"
+  },
+  {
+    "book_id": "6038",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "Al-Ilal (The Defects)",
+    "book_title_ar": "العلل"
+  },
+  {
+    "book_id": "6044",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "From the Speech of Ahmad bin Hanbal on Hadith Defects and Knowledge of Men",
+    "book_title_ar": "من كلام أحمد بن حنبل في علل الحديث ومعرفة الرجال"
+  },
+  {
+    "book_id": "6302",
+    "category_id": "11",
+    "category_en": "Principles of Fiqh",
+    "category_ar": "أصول الفقه",
+    "book_title_en": "Usul al-Shashi",
+    "book_title_ar": "أصول الشاشي"
+  },
+  {
+    "book_id": "6956",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Al-Tabsira bil-Tijara (Insight into Trade) concerning the description of what is considered elegant in countries regarding fine goods, precious objects, and valuable gems",
+    "book_title_ar": "التبصرة بالتجارة في وصف ما يستظرف في البلدان من الأمتعة الرفيعة والأعلاق النفيسة والجواهر الثمينة"
+  },
+  {
+    "book_id": "725",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Al-Dayarat (The Monasteries)",
+    "book_title_ar": "الديارات"
+  },
+  {
+    "book_id": "96609",
+    "category_id": "26",
+    "category_en": "Biographies and Generations",
+    "category_ar": "التراجم والطبقات",
+    "book_title_en": "A Book Containing the Defects of Hadith and the Knowledge of Trustworthy Jurists from the Weak, as Agreed Upon by the Scholars of Basra",
+    "book_title_ar": "حسن البنا - الرجل القرآني"
+  },
+  {
+    "book_id": "992",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Names of the Mountains of Tihamah and Their Inhabitants, and What Villages Are In Them, and What Trees Grow On Them, and What Waters Are In Them",
+    "book_title_ar": "أسماء جبال تهامة وسكانها وما فيها من القرى وما ينبت عليها من الأشجار وما فيها من المياه [مطبوع ضمن كتاب «نوادر المخطوطات»]"
+  }
+]

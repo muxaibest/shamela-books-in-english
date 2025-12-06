@@ -1,0 +1,8 @@
+{
+  "name": "Shamela Books (English)",
+  "short_name": "ShamelaEN",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd"
+}
