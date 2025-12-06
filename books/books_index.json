@@ -238,5 +238,125 @@
     "category_ar": "العقيدة",
     "book_title_en": "Warning the Worshipper against Taking Graves as Mosques",
     "book_title_ar": "تحذير الساجد من اتخاذ القبور مساجد"
+  },
+  {
+    "book_id": "11081",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "The Prohibition of Musical Instruments",
+    "book_title_ar": "تحريم آلات الطرب"
+  },
+  {
+    "book_id": "11097",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "Correction of the Hadith about the Fasting Person Breaking Fast Before Travel After Dawn",
+    "book_title_ar": "تصحيح حديث إفطار الصائم قبل سفرة بعد الفجر"
+  },
+  {
+    "book_id": "11108",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "Summary of Funeral Rulings",
+    "book_title_ar": "تلخيص أحكام الجنائز"
+  },
+  {
+    "book_id": "11175",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "The Sermon of Need That the Messenger of Allah (may Allah bless him and grant him peace) Used to Teach His Companions",
+    "book_title_ar": "خطبة الحاجة التي كان رسول الله صلى الله عليه وسلم يعلمها أصحابه"
+  },
+  {
+    "book_id": "11273",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "The Prayer of the Two Eids in the Musalla is the Sunnah",
+    "book_title_ar": "صلاة العيدين في المصلى هي السنة"
+  },
+  {
+    "book_id": "11307",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "The Night Prayer of Ramadan: Its Merit, How to Perform It, the Legitimacy of Congregation in It, Along with a Valuable Research on I'tikaf",
+    "book_title_ar": "قيام رمضان فضله وكيفية أدائه ومشروعية الجماعة فيه ومعه بحث قيم عن الاعتكاف"
+  },
+  {
+    "book_id": "11362",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "How We Must Interpret the Noble Qur'an",
+    "book_title_ar": "كيف يجب علينا أن نفسر القرآن الكريم"
+  },
+  {
+    "book_id": "12090",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "Manasik Al-Hajj wa Al-Umrah (Rituals of Hajj and Umrah)",
+    "book_title_ar": "مناسك الحج والعمرة"
+  },
+  {
+    "book_id": "133363",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "Critique of «Hadith Texts in General Culture» collected and classified by Muhammad Al-Muntasir Al-Kattani, Professor of Hadith",
+    "book_title_ar": "نقد «نصوص حديثية في الثقافة العامة» جمع وتصنيف محمد المنتصر الكتاني أستاذ الحديث"
+  },
+  {
+    "book_id": "133365",
+    "category_id": "2",
+    "category_en": "Sects and Refutations",
+    "category_ar": "الفرق والردود",
+    "book_title_en": "Unveiling the Falsehoods and Fabrications in Abu Ghuddah's 'Words'",
+    "book_title_ar": "كشف النقاب عما في «كلمات» أبي غدة من الأباطيل والافتراءات"
+  },
+  {
+    "book_id": "151039",
+    "category_id": "2",
+    "category_en": "Sects and Refutations",
+    "category_ar": "الفرق والردود",
+    "book_title_en": "Refutation of the 'Intensive Commentary' of Sheikh Abdullah Al-Habashi",
+    "book_title_ar": "الرد على التعقيب الحثيث للشيخ عبد الله الحبشي"
+  },
+  {
+    "book_id": "365",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "Grading the Hadiths of the Problem of Poverty and How Islam Addressed It",
+    "book_title_ar": "تخريج أحاديث مشكلة الفقر وكيف عالجها الإسلام"
+  },
+  {
+    "book_id": "399",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "The Pilgrimage of the Prophet, peace be upon him, as Narrated by Jabir, may Allah be pleased with him",
+    "book_title_ar": "حجة النبي صلى الله عليه وسلم كما رواها عنه جابر رضي الله عنه"
+  },
+  {
+    "book_id": "416",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "The Ruling on the One Who Abandons Prayer",
+    "book_title_ar": "حكم تارك الصلاة"
+  },
+  {
+    "book_id": "421",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Defense of the Prophetic Hadith and Biography",
+    "book_title_ar": "دفاع عن الحديث النبوي والسيرة"
   }
 ]
