@@ -198,5 +198,45 @@
     "category_ar": "البلدان والرحلات",
     "book_title_en": "Names of the Mountains of Tihamah and Their Inhabitants, and What Villages Are In Them, and What Trees Grow On Them, and What Waters Are In Them",
     "book_title_ar": "أسماء جبال تهامة وسكانها وما فيها من القرى وما ينبت عليها من الأشجار وما فيها من المياه [مطبوع ضمن كتاب «نوادر المخطوطات»]"
+  },
+  {
+    "book_id": "171",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Sahih At-Targhib Wa At-Tarhib",
+    "book_title_ar": "صحيح الترغيب والترهيب"
+  },
+  {
+    "book_id": "179",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Da'if at-Targhib wa at-Tarhib (The Weak of Encouragement and Warning)",
+    "book_title_ar": "ضعيف الترغيب والترهيب"
+  },
+  {
+    "book_id": "306",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "Al-Thamar al-Mustatab fi Fiqh al-Sunnah wal-Kitab",
+    "book_title_ar": "الثمر المستطاب في فقه السنة والكتاب"
+  },
+  {
+    "book_id": "314",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "The Silencing Response to those who opposed the scholars, became strict and fanatical, and obligated the woman to cover her face and hands, and made it mandatory, and were not content with their saying: It is a Sunnah and recommended",
+    "book_title_ar": "الرد المفحم على من خالف العلماء وتشدد وتعصب وألزم المرأة أن تستر وجهها وكفيها وأوجب ولم يقنع بقولهم: إنه سنة ومستحبة"
+  },
+  {
+    "book_id": "349",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Warning the Worshipper against Taking Graves as Mosques",
+    "book_title_ar": "تحذير الساجد من اتخاذ القبور مساجد"
   }
 ]
