@@ -2,6 +2,8 @@
 
 A simple, fast, and offline-capable web app for browsing translated Arabic Islamic books from the Shamela library.
 
+Completed: *60* Books Now.
+
 ## 🔗 Live Website
 
 Click the link below to start reading:
