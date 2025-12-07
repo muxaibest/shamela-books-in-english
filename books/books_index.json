@@ -694,5 +694,29 @@
     "category_ar": "الأنساب",
     "book_title_en": "Al-Muntakhab fi Dhikr Nasab Qaba'il al-Arab",
     "book_title_ar": "المنتخب في ذكر نسب قبائل العرب"
+  },
+  {
+    "book_id": "150846",
+    "category_id": "2",
+    "category_en": "Sects and Refutations",
+    "category_ar": "الفرق والردود",
+    "book_title_en": "The Advice Warning Against the Sabotage of (Ibn Abdul-Mannan) to the Weighty Books of the Imams and His Weakening of Hundreds of Authentic Hadiths",
+    "book_title_ar": "النصيحة بالتحذير من تخريب (ابن عبد المنان) لكتب الأئمة الرجيحة وتضعيفه لمئات الأحاديث الصحيحة"
+  },
+  {
+    "book_id": "17798",
+    "category_id": "11",
+    "category_en": "Principles of Fiqh",
+    "category_ar": "أصول الفقه",
+    "book_title_en": "I'lam al-Muwaqqi'in 'an Rabb al-'Alamin",
+    "book_title_ar": "إعلام الموقعين عن رب العالمين"
+  },
+  {
+    "book_id": "5954",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "From the speech of Abu Zakariya Yahya bin Ma'in regarding Men (Narrators) - Tahman's Narration",
+    "book_title_ar": "من كلام أبي زكريا يحيى بن معين في الرجال (رواية طهمان)"
   }
 ]
