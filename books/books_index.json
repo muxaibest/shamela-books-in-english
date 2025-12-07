@@ -358,5 +358,125 @@
     "category_ar": "علوم الحديث",
     "book_title_en": "Defense of the Prophetic Hadith and Biography",
     "book_title_ar": "دفاع عن الحديث النبوي والسيرة"
+  },
+  {
+    "book_id": "18",
+    "category_id": "17",
+    "category_en": "Hanbali Fiqh",
+    "category_ar": "الفقه الحنبلي",
+    "book_title_en": "A Collection Containing Four Treatises by Al-Hajjawi",
+    "book_title_ar": "مجموعٌ فيه أربع رسائل للحجاوي"
+  },
+  {
+    "book_id": "1",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Al-Fawakeh Al-Adhab in response to those who did not rule by the Sunnah and the Book",
+    "book_title_ar": "الفواكه العذاب في الرد على من لم يحكّم السنة والكتاب"
+  },
+  {
+    "book_id": "21",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Abstraction of the Hadiths of 'Umdah in Jurisprudence by Sheikh Abu Muhammad Al-Muwaffaq Ibn Qudamah (died 620 AH)",
+    "book_title_ar": "التجريد للأحاديث العمدة في الفقه للشيخ أبي محمد الموفق ابن قدامة (ت ٦٢٠ هـ)"
+  },
+  {
+    "book_id": "25",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "The Urger's Journey to the Knowledge of the Triple Divorce",
+    "book_title_ar": "سَيرُ الحاثّ إلى عِلْم الطّلاق الثلاث"
+  },
+  {
+    "book_id": "26",
+    "category_id": "27",
+    "category_en": "Genealogy",
+    "category_ar": "الأنساب",
+    "book_title_en": "Brothers and Sisters (Al-Ikhwah wa Al-Akhawat)",
+    "book_title_ar": "الإخوة والأخوات"
+  },
+  {
+    "book_id": "51",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "The Doctrine of Belief in the Last Day and Its Effect on Reforming Society",
+    "book_title_ar": "عقيدة الإيمان باليوم الآخر وآثرها في إصلاح المجتمع"
+  },
+  {
+    "book_id": "54",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "The Millenary Poem on Legal Manners [Famous as 'Manzumat al-Adab']",
+    "book_title_ar": "الألفية في الآداب الشرعية [المشهورة بـ «منظومة الآداب»]"
+  },
+  {
+    "book_id": "59",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "When the Heart Retreats",
+    "book_title_ar": "حينما يعتكف القلب"
+  },
+  {
+    "book_id": "60",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Introduction to the Sciences of Sharia",
+    "book_title_ar": "مدخل إلى علوم الشريعة"
+  },
+  {
+    "book_id": "64",
+    "category_id": "2",
+    "category_en": "Sects and Refutations",
+    "category_ar": "الفرق والردود",
+    "book_title_en": "Al-Maturidiyyah",
+    "book_title_ar": "الماتريدية"
+  },
+  {
+    "book_id": "69",
+    "category_id": "2",
+    "category_en": "Sects and Refutations",
+    "category_ar": "الفرق والردود",
+    "book_title_en": "The Study of Religious Science - Its Importance and the Methodologies of Researchers in It",
+    "book_title_ar": "دراسة علم الأديان - أهميتها ومناهج الباحثين فيها -"
+  },
+  {
+    "book_id": "70",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "The Doctrine of Belief in Destiny and Decree According to the Predecessors and Its Effect on the Believer",
+    "book_title_ar": "عقيدة الإيمان بالقضاء والقدر عند السلف وأثرها على المؤمن"
+  },
+  {
+    "book_id": "72",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "The Shining Stars regarding the Virtues of the Enduring Good Deeds",
+    "book_title_ar": "النجوم الزاهرات في فضائل الباقيات الصالحات"
+  },
+  {
+    "book_id": "85",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "And Protect Your Oaths",
+    "book_title_ar": "واحفظوا أيمانكم"
+  },
+  {
+    "book_id": "97",
+    "category_id": "2",
+    "category_en": "Sects and Refutations",
+    "category_ar": "الفرق والردود",
+    "book_title_en": "The Faithful Guide to Understanding Sufism and the Sufi",
+    "book_title_ar": "الموفي بمعرفة التصوف والصوفي"
   }
 ]
