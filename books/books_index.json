@@ -478,5 +478,221 @@
     "category_ar": "الفرق والردود",
     "book_title_en": "The Faithful Guide to Understanding Sufism and the Sufi",
     "book_title_ar": "الموفي بمعرفة التصوف والصوفي"
+  },
+  {
+    "book_id": "105",
+    "category_id": "31",
+    "category_en": "Grammar and Morphology",
+    "category_ar": "النحو والصرف",
+    "book_title_en": "Al-Wafiyah bi-Ikhtisar al-Alfiyah (Alfiyat Ibn Malik)",
+    "book_title_ar": "الوفية باختصار الألفية (ألفيةِ ابن مالك)"
+  },
+  {
+    "book_id": "111",
+    "category_id": "26",
+    "category_en": "Biographies and Generations",
+    "category_ar": "التراجم والطبقات",
+    "book_title_en": "Tadhyil al-Dhayl (Supplement to Al-Iraqi's Tail on Al-Ibar)",
+    "book_title_ar": "تذييل الذيل (تذييل على ذيل العراقي على العبر)"
+  },
+  {
+    "book_id": "147",
+    "category_id": "7",
+    "category_en": "Hadith Commentaries",
+    "category_ar": "شروح الحديث",
+    "book_title_en": "A Fragment of Sheikh Abdul Aziz Al-Tarefe's Explanation of Bulugh al-Maram, Transcribed by Some Interested People",
+    "book_title_ar": "قطعة من شرح الشيخ عبد العزيز الطريفي لبلوغ المرام"
+  },
+  {
+    "book_id": "153",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Al-Qadar Wa Ma Warada Fi Dhalik Min Al-Athar (Destiny and What Has Been Narrated About It)",
+    "book_title_ar": "القدر وما ورد في ذلك من الآثار"
+  },
+  {
+    "book_id": "178",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Following the Sunnah and Avoiding Innovations",
+    "book_title_ar": "اتباع السنن واجتناب البدع"
+  },
+  {
+    "book_id": "191",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "What the Pillars [of Knowledge] Narrated about Not Coming to the Sultans (Ma Rawahu al-Asatin fi 'Adam al-Maji' ila al-Salatin)",
+    "book_title_ar": "ما رواه الأساطين في عدم المجيء إلى السلاطين"
+  },
+  {
+    "book_id": "196",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Happiness and Success in Understanding the Purposes of Marriage",
+    "book_title_ar": "السعادة والفلاح في فهم مقاصد النكاح"
+  },
+  {
+    "book_id": "225",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Al-Haqq wa Al-Thabat fi Al-Asma' wa Al-Sifat (The Truth and Firmness Regarding Names and Attributes)",
+    "book_title_ar": "الحق والثبات في الأسماء والصفات"
+  },
+  {
+    "book_id": "238",
+    "category_id": "31",
+    "category_en": "Grammar and Morphology",
+    "category_ar": "النحو والصرف",
+    "book_title_en": "Fath Al-Karim Al-Latif fi Sharh 'Bakurat Al-Ta'rif bil-Muhimm min Al-Tasrif' by Sheikh Muhammad Hammad bin Ahmad Al-Shinqiti",
+    "book_title_ar": "فتح الكريم اللطيف في شرح «باكورة التعريف بالمهمّ من التصريف، للشيخ محمد حماد بن أحمد الشنقيطي»"
+  },
+  {
+    "book_id": "255",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "Quranic Objectives in Surah (Qaf)",
+    "book_title_ar": "المقاصد القرآنية في سورة (ق)"
+  },
+  {
+    "book_id": "263",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "Az-Zuhd (Asceticism)",
+    "book_title_ar": "الزهد"
+  },
+  {
+    "book_id": "267",
+    "category_id": "11",
+    "category_en": "Principles of Fiqh",
+    "category_ar": "أصول الفقه",
+    "book_title_en": "Al-Iqna' fi Hujjiyat al-Ijma' (Persuasion regarding the Authority of Consensus)",
+    "book_title_ar": "الإقناع في حجية الإجماع"
+  },
+  {
+    "book_id": "270",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Continuing the Look at Refining 'Nukhbat al-Fikar'",
+    "book_title_ar": "إدامة النظر في تحرير نخبة الفكر"
+  },
+  {
+    "book_id": "271",
+    "category_id": "11",
+    "category_en": "Principles of Fiqh",
+    "category_ar": "أصول الفقه",
+    "book_title_en": "Al-Intisar fi Hujjiyat Qawl Al-Sahabah Al-Akhyar (The Victory in the Authority of the Saying of the Righteous Companions)",
+    "book_title_ar": "الانتصار في حجية قول الصحابة الأخيار"
+  },
+  {
+    "book_id": "295",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Akhbar al-Nahwiyyin (News of the Grammarians)",
+    "book_title_ar": "أخبار النحويين"
+  },
+  {
+    "book_id": "297",
+    "category_id": "16",
+    "category_en": "Shafi'i Fiqh",
+    "category_ar": "الفقه الشافعي",
+    "book_title_en": "Al-Ajwibah Al-Aithawiyyah 'an Al-Masa'il Al-Tarablusiyyah",
+    "book_title_ar": "الأجوبة العيثاوية عن المسائل الطرابلسية"
+  },
+  {
+    "book_id": "310",
+    "category_id": "30",
+    "category_en": "Linguistic Rarities and Dictionaries",
+    "category_ar": "الغريب والمعاجم",
+    "book_title_en": "Khayr al-Kalam fi al-Taqassi 'an Aghlat al-Awamm",
+    "book_title_ar": "خير الكلام في التقصي عن أغلاط العوام"
+  },
+  {
+    "book_id": "318",
+    "category_id": "27",
+    "category_en": "Genealogy",
+    "category_ar": "الأنساب",
+    "book_title_en": "Al Jarba Family in History and Literature",
+    "book_title_ar": "آل الجرباء في التاريخ والأدب"
+  },
+  {
+    "book_id": "343",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Wiping over Socks and Sandals",
+    "book_title_ar": "المسح على الجوربين والنعلين"
+  },
+  {
+    "book_id": "348",
+    "category_id": "24",
+    "category_en": "Prophetic Biography",
+    "category_ar": "السيرة النبوية",
+    "book_title_en": "Bidāyat al-Sūl fī Tafḍīl al-Rasūl (The Beginning of the Quest in Preferring the Messenger PBUH)",
+    "book_title_ar": "بداية السول في تفضيل الرسول صلى الله عليه وسلم"
+  },
+  {
+    "book_id": "404",
+    "category_id": "25",
+    "category_en": "History",
+    "category_ar": "التاريخ",
+    "book_title_en": "Daily Events of Damascus (Hawadith Dimashq al-Yawmiyyah)",
+    "book_title_ar": "حوادث دمشق اليومية"
+  },
+  {
+    "book_id": "405",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Faḍā'il Miṣr al-Maḥrūsah (The Virtues of Protected Egypt)",
+    "book_title_ar": "فضائل مصر المحروسة"
+  },
+  {
+    "book_id": "463",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Geography (Al-Jughrafiya)",
+    "book_title_ar": "الجغرافيا"
+  },
+  {
+    "book_id": "466",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "Adab al-Muwakalah (Etiquette of Eating with Others)",
+    "book_title_ar": "آداب المواكلة"
+  },
+  {
+    "book_id": "483",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "Preparation for Death and the Questioning of the Grave",
+    "book_title_ar": "الاستعداد للموت وسؤال القبر"
+  },
+  {
+    "book_id": "487",
+    "category_id": "27",
+    "category_en": "Genealogy",
+    "category_ar": "الأنساب",
+    "book_title_en": "At-Ta'rif bil-Ansab wal-Tanwih bi-Dhawi al-Ahsab (Definition of Lineages and Commendation of Those with Noble Ancestry)",
+    "book_title_ar": "التعريف بالأنساب والتنويه بذوي الأحساب"
+  },
+  {
+    "book_id": "494",
+    "category_id": "27",
+    "category_en": "Genealogy",
+    "category_ar": "الأنساب",
+    "book_title_en": "Al-Muntakhab fi Dhikr Nasab Qaba'il al-Arab",
+    "book_title_ar": "المنتخب في ذكر نسب قبائل العرب"
   }
 ]
