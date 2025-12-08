@@ -9,6 +9,40 @@ A simple, fast, and offline-capable web app for browsing translated Arabic Islam
 - **Total English Pages:** 25748 
 - **Total Pages (AR + EN):** 51496  
 
+| #  | Category Name                                 | Books |
+|----|-----------------------------------------------|-------|
+| 1  | Hadith Defects and Questions                  | 9     |
+| 2  | Logic                                         | 1     |
+| 3  | Books of Sunnah                               | 10    |
+| 4  | Geography and Travels                         | 14    |
+| 5  | Tafsir                                        | 1     |
+| 6  | Principles of Fiqh                            | 5     |
+| 7  | Biographies and Generations                   | 5     |
+| 8  | General Fiqh                                  | 5     |
+| 9  | Creed                                         | 10    |
+| 10 | Fiqh Issues                                   | 11    |
+| 11 | Hadith Verification and Narration Chains      | 5     |
+| 12 | Quran Sciences and Tafsir Principles          | 6     |
+| 13 | Sects and Refutations                         | 6     |
+| 14 | Hadith Sciences                               | 6     |
+| 15 | Hanbali Fiqh                                  | 1     |
+| 16 | Genealogy                                     | 4     |
+| 17 | Spirituality, Manners and Supplications       | 11    |
+| 18 | General Books                                 | 2     |
+| 19 | Grammar and Morphology                        | 4     |
+| 20 | Hadith Commentaries                           | 2     |
+| 21 | Shafi'i Fiqh                                  | 2     |
+| 22 | Linguistic Rarities and Dictionaries          | 1     |
+| 23 | Prophetic Biography                           | 2     |
+| 24 | History                                       | 1     |
+| 25 | Rhetoric                                      | 1     |
+| 26 | Literature                                    | 11    |
+| 27 | Maliki Fiqh                                   | 1     |
+| 28 | Tajweed and Quran Readings                    | 2     |
+| 29 | Language Books                                | 1     |
+|----|-----------------------------------------------|-------|
+|    | **Total Books**                               | **140** |
+
 ## 🔗 Live Website
 
 Start reading here:  
