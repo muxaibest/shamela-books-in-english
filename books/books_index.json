@@ -1118,5 +1118,181 @@
     "category_ar": "مسائل فقهية",
     "book_title_en": "Treatise on the Ruling of the Price of Dogs (Risalah fi Hukm Thaman al-Kilab)",
     "book_title_ar": "رسالة في حكم ثمن الكلاب"
+  },
+  {
+    "book_id": "1033",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "Adhkar of Prayers and What Comes Before and After Them",
+    "book_title_ar": "أذكار الصلوات وما قبلها وما بعدها"
+  },
+  {
+    "book_id": "1039",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Fiqh Rulings Related to Extra, Separated, and Amputated Parts of the Human Body",
+    "book_title_ar": "الأحكام الفقهية المتعلقة بالأجزاء الزائدة والمنفصلة والمبتورة من جسم الإنسان (دراسةً فقهيةً مقارنةً)"
+  },
+  {
+    "book_id": "1055",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Explanation of the Poem of Ibn Farah al-Ishbili (Gharami Sahih)",
+    "book_title_ar": "شرح قصيدة ابن فرح الإشبيلي (غرامي صحيح)"
+  },
+  {
+    "book_id": "1060",
+    "category_id": "9",
+    "category_en": "Hadith Defects and Questions",
+    "category_ar": "العلل والسؤلات الحديثية",
+    "book_title_en": "Questions of Abu Bakr Al-Barqani to Al-Daraqutni regarding Jarh and Ta'dil",
+    "book_title_ar": "سؤالات أبى بكر البرقانى للدارقطني في الجرح والتعديل"
+  },
+  {
+    "book_id": "1062",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Facilitation for Women in Hajj in the Light of the Prophetic Sunnah",
+    "book_title_ar": "التيسير على النساء في الحج في ضوء السنة النبوية"
+  },
+  {
+    "book_id": "1064",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Regulations of Takfir in the Light of the Prophetic Sunnah",
+    "book_title_ar": "ضوابط التكفير في ضوء السنة النبوية"
+  },
+  {
+    "book_id": "1067",
+    "category_id": "24",
+    "category_en": "Prophetic Biography",
+    "category_ar": "السيرة النبوية",
+    "book_title_en": "How to Support Your Prophet, Peace Be Upon Him",
+    "book_title_ar": "كيف تنصر نبيك صلى الله عليه وسلم"
+  },
+  {
+    "book_id": "1073",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "The Stance of the Muslim Towards Tribulations in Light of the Hadith of Abdullah bin Amr - may Allah be pleased with him",
+    "book_title_ar": "موقف المسلم من الفتن في ضوء حديث عبد الله بن عمرو - رضي الله عنه -"
+  },
+  {
+    "book_id": "1097",
+    "category_id": "36",
+    "category_en": "Comprehensive Collections",
+    "category_ar": "الجوامع",
+    "book_title_en": "Kashf al-Shubuhat (Removal of Doubts)",
+    "book_title_ar": "كشف الشبهات (متون طالب العلم - الإضافية - ٤)"
+  },
+  {
+    "book_id": "1106",
+    "category_id": "11",
+    "category_en": "Principles of Fiqh",
+    "category_ar": "أصول الفقه",
+    "book_title_en": "Factors Affecting the Suspension of Ruling on Probability or Wisdom - An Usuli Study",
+    "book_title_ar": "العوامل المؤثرة في نوط الحكم بالمظنة أو بالحكمة - دراسة أصولية"
+  },
+  {
+    "book_id": "1119",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Islam is the Religion of Moderation, Virtues, and Eternal Values",
+    "book_title_ar": "الإسلام دين الوسطية والفضائل والقيم الخالدة"
+  },
+  {
+    "book_id": "1120",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "The Miracle of the Quran",
+    "book_title_ar": "معجزة القرآن"
+  },
+  {
+    "book_id": "1129",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "The Historical Roots of the Reality of Extremism, Radicalism, Terrorism, and Violence",
+    "book_title_ar": "الجذور التاريخية لحقيقة الغلو والتطرف والإرهاب والعنف"
+  },
+  {
+    "book_id": "1132",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Dialogue with People of Other Religions: Its Legitimacy, Conditions, and Etiquette",
+    "book_title_ar": "الحوار مع أصحاب الأديان مشروعيته وشروطه وآدابه"
+  },
+  {
+    "book_id": "1136",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "The Impact of Doubt and Whispers Regarding the Existence of God Almighty on the Muslim's Belief - A Doctrinal Study",
+    "book_title_ar": "أثر الشك والوسواس في وجود الله عز وجل على عقيدة المسلم -دراسة عقدية-"
+  },
+  {
+    "book_id": "1138",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Ease and Tolerance in Islam",
+    "book_title_ar": "اليسر والسماحة في الإسلام"
+  },
+  {
+    "book_id": "1139",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "The Hiders who Disappeared out of Fear of Al-Hajjaj bin Yusuf Al-Thaqafi",
+    "book_title_ar": "المتوارين الذين اختفوا خوفا من الحجاج بن يوسف الثقفي"
+  },
+  {
+    "book_id": "1145",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "The Impact of Sharia Knowledge in Confronting Violence and Aggression",
+    "book_title_ar": "أثر العلم الشرعي في مواجهة العنف والعدوان"
+  },
+  {
+    "book_id": "1164",
+    "category_id": "27",
+    "category_en": "Genealogy",
+    "category_ar": "الأنساب",
+    "book_title_en": "Supplement to What Was Missed Regarding Brothers and Sisters",
+    "book_title_ar": "استدراك ما فات من الإخوة والأخوات [وهو استدراك على كتابَي «علي بن المديني» و «أبي داود» مطبوع معهما في مجموع باسم «الرواة من الأخوة والأخوات»]"
+  },
+  {
+    "book_id": "1170",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Terrorism against the Protected Ones and Islam's Stance on it",
+    "book_title_ar": "إرهاب المستأمنين وموقف الإسلام منه"
+  },
+  {
+    "book_id": "1179",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Efforts of the Imams of the Salafi Call in Najd in Countering Violence and Terrorism through Calling to the Jurisprudence of Denying Evil",
+    "book_title_ar": "جهود أئمة الدعوة السلفية بنجد في التصدي للعنف والإرهاب من خلال الدعوة إلى فقه إنكار المنكر"
+  },
+  {
+    "book_id": "1186",
+    "category_id": "26",
+    "category_en": "Biographies and Generations",
+    "category_ar": "التراجم والطبقات",
+    "book_title_en": "Ta'rif Ahl al-Taqdis bi Maratib al-Mawsufin bi al-Tadlis",
+    "book_title_ar": "تعريف اهل التقديس بمراتب الموصوفين بالتدليس"
   }
 ]
