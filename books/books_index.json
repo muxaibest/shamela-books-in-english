@@ -718,5 +718,405 @@
     "category_ar": "العلل والسؤلات الحديثية",
     "book_title_en": "From the speech of Abu Zakariya Yahya bin Ma'in regarding Men (Narrators) - Tahman's Narration",
     "book_title_ar": "من كلام أبي زكريا يحيى بن معين في الرجال (رواية طهمان)"
+  },
+  {
+    "book_id": "514",
+    "category_id": "35",
+    "category_en": "Rhetoric",
+    "category_ar": "البلاغة",
+    "book_title_en": "Nasrat al-Thaa'ir 'ala al-Mathal al-Sa'ir (Aid to the Avenger against 'The Current Proverb')",
+    "book_title_ar": "نصرة الثائر على المثل السائر"
+  },
+  {
+    "book_id": "572",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Establishing Proofs regarding the Ruling on Those Who Seek Help from Other Than Allah or Believe Soothsayers and Fortune Tellers",
+    "book_title_ar": "إقامة البراهين على حكم من استغاث بغير الله أو صدق الكهنة والعرافين"
+  },
+  {
+    "book_id": "577",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Illuminations of the Fundamentals in the Science of the Messenger's Hadith - A Treatise on Hadith Terminology Published for the First Time from Two Manuscripts",
+    "book_title_ar": "إشراقات الأصول في علم حديث الرسول - رسالة في مصطلح الحديث تنشر لأول مرة عن نسختين خطيتين -"
+  },
+  {
+    "book_id": "580",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Diwan al-Sababa (The Register of Ardent Love)",
+    "book_title_ar": "ديوان الصبابة"
+  },
+  {
+    "book_id": "589",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "Al-Dayyarat (The Monasteries)",
+    "book_title_ar": "الديارات"
+  },
+  {
+    "book_id": "597",
+    "category_id": "26",
+    "category_en": "Biographies and Generations",
+    "category_ar": "التراجم والطبقات",
+    "book_title_en": "Names of the Companions agreed upon by Muhammad bin Ismail Al-Bukhari and Muslim bin Al-Hajjaj bin Muslim Al-Qushayri (may Allah have mercy on them both) and what each of them narrated individually without the other",
+    "book_title_ar": "أسماء الصحابة التي اتفق فيها محمد بن إسماعيل البخاري ومسلم بن الحجاج بن مسلم القشيري رحمهما الله تعالي وما انفرد به كل واحد منهما دون صاحبه"
+  },
+  {
+    "book_id": "599",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Mukhtasar al-Mukhtasar fi Bayan Aqidat Ahl al-Sunnah wal-Athar (Summary of the Summary in Clarifying the Creed of the People of Sunnah and Narration)",
+    "book_title_ar": "مختصر المختصر في بيان عقيدة أهل السنة والأثر"
+  },
+  {
+    "book_id": "616",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Nukhbat al-Fikar fi Mustalah Ahl al-Athar (The Choice of Thought on the Terminology of the People of Tradition)",
+    "book_title_ar": "نخبة الفكر في مصطلح أَهل الأثر"
+  },
+  {
+    "book_id": "623",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Letters of Al-Tha'alibi",
+    "book_title_ar": "رسائل الثعالبي"
+  },
+  {
+    "book_id": "629",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Nadrat al-Ighrid fi Nusrat al-Qarid",
+    "book_title_ar": "نضرة الإغريض في نصرة القريض"
+  },
+  {
+    "book_id": "631",
+    "category_id": "15",
+    "category_en": "Maliki Fiqh",
+    "category_ar": "الفقه المالكي",
+    "book_title_en": "The Easiest Paths in the School of Imam Malik (Within the Rif'ah Collection on Texts of the Four Schools)",
+    "book_title_ar": "أسهل المسالك في مذهب الإمام مالك (ضمن مجموع الرفعة في بعض متون فقه المذاهب الأربعة)"
+  },
+  {
+    "book_id": "634",
+    "category_id": "31",
+    "category_en": "Grammar and Morphology",
+    "category_ar": "النحو والصرف",
+    "book_title_en": "Al-Hulal fi Sharh Abyat al-Jumal (The Robes in Explaining the Verses of Al-Jumal)",
+    "book_title_ar": "الحلل في شرح أبيات الجمل"
+  },
+  {
+    "book_id": "640",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "The Delight of the Man of Letters in Refuting Ibn al-Sirafi's Explanation of the Verses of Sibawayh (The author critiques Ibn al-Sirafi (d. 368 AH) in his explanation of some verses of Sibawayh's Book (d. 180 AH))",
+    "book_title_ar": "فرحة الأديب في الرد على ابن السيرافي شرح أبيات سيبويه (يتعقب المؤلف على ابن السيرافي (ت ٣٦٨ هـ) , في شرحه لبعض أبيات كتاب سيبويه (ت ١٨٠ هـ))"
+  },
+  {
+    "book_id": "648",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Correct Directives for Doctrinal New Occurrences Related to the Coronavirus Epidemic - Covid 19 (COVID-19)",
+    "book_title_ar": "التوجيهات الصحيحة للنوازل العقدية المتعلقة بوباء كورونا - كوفيد ١٩ (COVID-١٩)"
+  },
+  {
+    "book_id": "655",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "Salwat al-Ahzan lil-Ijtinab 'an Majalisat al-Ahdath wal-Niswan (Consolation of Sorrows for Avoiding the Company of Young Boys and Women)",
+    "book_title_ar": "سلوة الأحزان للاجتناب عن مجالسة الأحداث والنسوان"
+  },
+  {
+    "book_id": "666",
+    "category_id": "31",
+    "category_en": "Grammar and Morphology",
+    "category_ar": "النحو والصرف",
+    "book_title_en": "Anecdotes of Abu al-Qasim al-Zajjaji",
+    "book_title_ar": "أخبار أبي القاسم الزجاجي"
+  },
+  {
+    "book_id": "667",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Rulings on the Disagreement in Sighting the Crescent Moon of Dhu al-Hijjah",
+    "book_title_ar": "أحكام الاختلاف في رؤية هلال ذي الحجة"
+  },
+  {
+    "book_id": "679",
+    "category_id": "11",
+    "category_en": "Principles of Fiqh",
+    "category_ar": "أصول الفقه",
+    "book_title_en": "Characteristics of the Fatwa, the Mufti, and the Mustafti (Questioner)",
+    "book_title_ar": "صفة الفتوى والمفتي والمستفتي"
+  },
+  {
+    "book_id": "681",
+    "category_id": "24",
+    "category_en": "Prophetic Biography",
+    "category_ar": "السيرة النبوية",
+    "book_title_en": "Al-Ghurar wa Al-Durar fi Sirat Khayr Al-Bashar (The Blazes and Pearls in the Biography of the Best of Mankind), may Allah bless him and grant him peace",
+    "book_title_ar": "الغرر والدرر في سيرة خير البشر صلي الله عليه وسلم"
+  },
+  {
+    "book_id": "684",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "The Virtue of Sending Blessings upon the Prophet (Fadl as-Salat 'ala an-Nabi), Peace Be Upon Him",
+    "book_title_ar": "فضل الصلاة على النبي صلى الله عليه وسلم"
+  },
+  {
+    "book_id": "686",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Al-Hafiz Zain al-Din al-Iraqi, and his book 'Takmilat Sharh al-Tirmidhi'",
+    "book_title_ar": "الحافظ زين الدين العراقي، وكتابه «تكملة شرح الترمذي»"
+  },
+  {
+    "book_id": "722",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Al-Amali",
+    "book_title_ar": "الأمالي"
+  },
+  {
+    "book_id": "734",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "At-Tashbihat (The Similes)",
+    "book_title_ar": "التشبيهات"
+  },
+  {
+    "book_id": "743",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Al-Tadhkirah Al-Sa'diyya",
+    "book_title_ar": "التذكرة السعدية"
+  },
+  {
+    "book_id": "746",
+    "category_id": "26",
+    "category_en": "Biographies and Generations",
+    "category_ar": "التراجم والطبقات",
+    "book_title_en": "Al-Mudhakarah fi Alqab al-Shu'ara (Memorandum on Poets' Nicknames)",
+    "book_title_ar": "المذاكرة في ألقاب الشعراء"
+  },
+  {
+    "book_id": "768",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Al-Mustajad min Fa'alat al-Ajwad",
+    "book_title_ar": "المستجاد من فعلات الأجواد"
+  },
+  {
+    "book_id": "770",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Names of the Horses of the Arabs and Their Knights",
+    "book_title_ar": "أسماء خيل العرب وفرسانها"
+  },
+  {
+    "book_id": "777",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "Al-Risalah Al-Muwadidhah (The Clarifying Treatise)",
+    "book_title_ar": "الرسالة الموضحة في ذكر سرقات المتنبي و ساقط شعره"
+  },
+  {
+    "book_id": "788",
+    "category_id": "32",
+    "category_en": "Literature",
+    "category_ar": "الأدب",
+    "book_title_en": "The Ornament of Knights and the Emblem of the Brave",
+    "book_title_ar": "حلية الفرسان وشعار الشجعان"
+  },
+  {
+    "book_id": "797",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "Al-Zabad fi Mustalah al-Hadith",
+    "book_title_ar": "الزبد في مصطلح الحديث (شرح منظومة الشيخ عبد الرحمن أبي بكر الملا، المسماة «إلهام المغيث في أقسام الحديث»)"
+  },
+  {
+    "book_id": "805",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Encouragement to Trade, Industry, and Work, and Denial of Those Who Claim Reliance (Tawakkul) in Abandoning Work, and the Argument Against Them",
+    "book_title_ar": "الحث على التجارة والصناعة والعمل، والإنكار على من يدعي التوكل في ترك العمل والحجة عليهم في ذلك"
+  },
+  {
+    "book_id": "817",
+    "category_id": "26",
+    "category_en": "Biographies and Generations",
+    "category_ar": "التراجم والطبقات",
+    "book_title_en": "Names of the Weak Narrators (Asami al-Du'afa)",
+    "book_title_ar": "أسامي الضعفاء"
+  },
+  {
+    "book_id": "821",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "Ramadan Gatherings (Majalis Ramadan)",
+    "book_title_ar": "مجالس رمضان (من كتب العلامتين ابن باز وابن عثيمين رحمهما الله تعالى)"
+  },
+  {
+    "book_id": "849",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "Takhrij of the Hadith 'A Muslim does not inherit from a Disbeliever'",
+    "book_title_ar": "تخريج حديث لا يرث المسلم الكافر"
+  },
+  {
+    "book_id": "857",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Akhbar fi al-Nahw (News in Grammar)",
+    "book_title_ar": "أخبار في النحو"
+  },
+  {
+    "book_id": "864",
+    "category_id": "23",
+    "category_en": "Spirituality, Manners and Supplications",
+    "category_ar": "الرقائق والآداب والأذكار",
+    "book_title_en": "The Impact of the Heart's Action on Quran Recitation and Reflection (Athar 'Amal al-Qalb 'ala Tilawat al-Qur'an wa Tadabburihi)",
+    "book_title_ar": "أثر عمل القلب على تلاوة القرآن وتدبره"
+  },
+  {
+    "book_id": "928",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "Parables in the Quran [From 'I'lam al-Muwaqqi'in']",
+    "book_title_ar": "الأمثال في القرآن [من «اعلام الموقعين»]"
+  },
+  {
+    "book_id": "936",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "Evidences of Success for the Most Correct Method of the Compilation of Al-Siddiq",
+    "book_title_ar": "دَلَائِلُ التَّوْفِيقِ لِأَصَحِ طَرِيقٍ لِجَمْعِ الصِّدِّيِقِ"
+  },
+  {
+    "book_id": "937",
+    "category_id": "5",
+    "category_en": "Tajweed and Quran Readings",
+    "category_ar": "التجويد والقراءات",
+    "book_title_en": "Mastery in the Controls of Recording the Qur'an",
+    "book_title_ar": "الإِتْقَانِ فِي ضَوَابِطِ تَسْجِيِلِ القُرْآنِ"
+  },
+  {
+    "book_id": "943",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "Al-Shawkani's Stance in his Tafsir regarding Munasabat (Correlations)",
+    "book_title_ar": "موقف الشوكاني في تفسيره من المناسبات (بحث محكم بكلية أصول الدين جامعة الأزهر ١٤٢٥ هـ)"
+  },
+  {
+    "book_id": "944",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "The Sound Narrated Tradition Agreeing with the Explicit Rationality in Discussing Three Commentaries Arranged According to the Order of Revelation",
+    "book_title_ar": "صَحِيِحُ المَنْقُوُلِ المُوَافِقُ لِصَرِيِحِ المَعْقُوُلِ فِيِ مُنَاقَشَةِ ثَلَاثَةِ تَفَاسِيِرَ رُتِّبَتْ عَلى تَرْتِيِبِ النُّزُوُلِ"
+  },
+  {
+    "book_id": "945",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Fiqh of Contemporary Issues in Worship",
+    "book_title_ar": "فقه النوازل في العبادات"
+  },
+  {
+    "book_id": "954",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Athari Comments on the Tahawi Creed by Imams of the Salafi Call",
+    "book_title_ar": "التعليقات الأثرية على العقيدة الطحاوية لأئمة الدعوة السلفية"
+  },
+  {
+    "book_id": "955",
+    "category_id": "16",
+    "category_en": "Shafi'i Fiqh",
+    "category_ar": "الفقه الشافعي",
+    "book_title_en": "Commands and Prohibitions According to Al-Shafi'i",
+    "book_title_ar": "الأمر والنهي على معنى الشافعي"
+  },
+  {
+    "book_id": "957",
+    "category_id": "28",
+    "category_en": "Geography and Travels",
+    "category_ar": "البلدان والرحلات",
+    "book_title_en": "The Egyptian Epistle (Al-Risalah Al-Masriyyah)",
+    "book_title_ar": "الرسالة المصرية [مطبوع ضمن كتاب «نوادر المخطوطات»]"
+  },
+  {
+    "book_id": "976",
+    "category_id": "7",
+    "category_en": "Hadith Commentaries",
+    "category_ar": "شروح الحديث",
+    "book_title_en": "Al-Luma' fi Asbab Wurud al-Hadith (Glimpses into the Causes of Hadith Revelation)",
+    "book_title_ar": "اللمع في أسباب ورود الحديث"
+  },
+  {
+    "book_id": "980",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Hadiths and Athar Reported Regarding Temporary Marriage: A Study of Narration and Understanding",
+    "book_title_ar": "الأحاديث والآثار الواردة في نكاح المتعة دراية ورواية"
+  },
+  {
+    "book_id": "984",
+    "category_id": "29",
+    "category_en": "Language Books",
+    "category_ar": "كتب اللغة",
+    "book_title_en": "The Wisdom of Illumination in the Writers of Horizons (Hikmat al-Ishraq fi Kuttab al-Afaq)",
+    "book_title_ar": "حكمة الإشراق في كتّاب الآفاق [مطبوع ضمن كتاب «نوادر المخطوطات»]"
+  },
+  {
+    "book_id": "989",
+    "category_id": "5",
+    "category_en": "Tajweed and Quran Readings",
+    "category_ar": "التجويد والقراءات",
+    "book_title_en": "Evaluating Methods of Teaching the Holy Quran in General and University Education Stages",
+    "book_title_ar": "تقويم طرق تعليم القرآن الكريم في مراحل التعليم العام والتعليم الجامعي"
+  },
+  {
+    "book_id": "994",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Treatise on the Ruling of the Price of Dogs (Risalah fi Hukm Thaman al-Kilab)",
+    "book_title_ar": "رسالة في حكم ثمن الكلاب"
   }
 ]
