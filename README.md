@@ -4,10 +4,10 @@ A simple, fast, and offline-capable web app for browsing translated Arabic Islam
 
 ## 📈 Project Status
 
-**Completed Project: Total 90 Books**  
-- **Total Arabic Pages:** 22,140  
-- **Total English Pages:** 22,140  
-- **Total Pages (AR + EN):** 44,280  
+**Completed Project: Total 280 Books in 2 Languages - 140 each language**  
+- **Total Arabic Pages:** 25748  
+- **Total English Pages:** 25748 
+- **Total Pages (AR + EN):** 51496  
 
 ## 🔗 Live Website
 
