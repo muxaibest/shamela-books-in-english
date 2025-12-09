@@ -6,7 +6,7 @@
     <title>Shamela Arabic Books In English</title>
     <link rel="stylesheet" href="css/style.css">
 
-    <!-- Manifest + Service Worker (outside of style!) -->
+    <!-- Manifest + Service Worker -->
     <link rel="manifest" href="manifest.json">
     <script>
     if ("serviceWorker" in navigator) {
@@ -36,30 +36,26 @@
         #book-meta p { margin: 2px 0; }
 
         /* Text */
-        .book-text { 
-            white-space: pre-wrap; 
-            line-height: 1.5; 
-            margin: 10px 0; 
-        }
-        .book-footnote {
-            margin-top: 10px;
-            font-size: 0.9em;
-            color: #444;
-        }
+        .book-text { white-space: pre-wrap; line-height: 1.5; margin: 10px 0; }
+        .book-footnote { margin-top: 10px; font-size: 0.9em; color: #444; }
 
         .hidden { display: none !important; }
 
-        hr { 
-            border: 0; 
-            border-top: 1px solid #ccc; 
-            margin: 10px 0; 
-        }
+        hr { border: 0; border-top: 1px solid #ccc; margin: 10px 0; }
     </style>
 </head>
 
 <body>
 
     <h1>Shamela Arabic Books In English</h1>
+
+    <!-- NEW: SEARCH + SHOW/HIDE ALL BUTTON -->
+    <div style="margin-bottom:15px;">
+        <input id="categorySearch" 
+               placeholder="Search categories or books..." 
+               style="width:70%; padding:8px; font-size:14px;">
+        <button id="toggleAllCats" style="padding:8px;">Show / Hide All</button>
+    </div>
 
     <!-- Category Menu -->
     <div id="category-menu">
@@ -91,7 +87,6 @@
     <!-- Pagination -->
     <div id="book-pagination" style="text-align:center; margin-top:20px;"></div>
 
-    <!-- Load JS -->
     <script src="js/app.js"></script>
 
 </body>
