@@ -129,6 +129,7 @@ h1 {
     border-top: 2px solid #0d6efd;
     color: #555;
 }
+
 /* ---------------------------- */
 /* English text styling         */
 /* ---------------------------- */
@@ -136,7 +137,7 @@ h1 {
 .book-column:not(.ar-text) p.en-para {
     text-align: justify;
     font-family: "Publico Text", Georgia, serif;
-    margin-bottom: 1em; /* spacing between paragraphs */
+    margin-bottom: 1em;
 }
 
 /* ---------------------------- */
@@ -147,23 +148,23 @@ h1 {
     direction: rtl;
     text-align: right;
     font-family: "Arial", "Tahoma", sans-serif;
-    margin-bottom: 1em; /* spacing between paragraphs */
+    margin-bottom: 1em;
 }
 
 /* ---------------------------- */
 /* Title / First Page Styling   */
 /* ---------------------------- */
 .book-title-page {
-    font-size: 3em;          /* Very large font */
+    font-size: 3em;
     font-weight: bold;
-    color: #d63384;          /* Eye-catching color */
+    color: #d63384;
     text-align: center;
     margin: 40px 0 20px 0;
 }
 
 .book-title-page .author,
 .book-title-page .author-year {
-    font-size: 1.5em;        /* Slightly smaller for author */
+    font-size: 1.5em;
     font-weight: normal;
     color: #6f42c1;
     margin: 10px 0;
@@ -176,8 +177,63 @@ h1 {
     line-height: 1.6;
 }
 
-/* Optional: center footnotes for first pages */
 .book-title-page .footnote {
     text-align: center;
     margin-top: 20px;
+}
+
+/* ------------------------------------------------- */
+/* NEW FEATURES (safe, no conflict)                  */
+/* ------------------------------------------------- */
+
+/* Category search box */
+#category-search {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+/* Sorting + Show/Hide buttons */
+.menu-controls {
+    margin: 10px 0;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.menu-controls button {
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid #0d6efd;
+    background: white;
+    color: #0d6efd;
+    cursor: pointer;
+}
+
+.menu-controls button:hover {
+    background: #0d6efd;
+    color: white;
+}
+
+/* Colorful book links */
+.books-list li a {
+    padding: 2px 4px;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.books-list li:nth-child(odd) a {
+    background: #eef7ff;
+}
+
+.books-list li:nth-child(even) a {
+    background: #f7f0ff;
+}
+
+.books-list li a:hover {
+    background: #0d6efd;
+    color: white;
 }
