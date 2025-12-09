@@ -1294,5 +1294,93 @@
     "category_ar": "التراجم والطبقات",
     "book_title_en": "Ta'rif Ahl al-Taqdis bi Maratib al-Mawsufin bi al-Tadlis",
     "book_title_ar": "تعريف اهل التقديس بمراتب الموصوفين بالتدليس"
+  },
+  {
+    "book_id": "641",
+    "category_id": "6",
+    "category_en": "Books of Sunnah",
+    "category_ar": "كتب السنة",
+    "book_title_en": "Al-Ta'aliqat Al-Hasanah on Sahih Ibn Hibban and Distinguishing its Weak from its Strong, and its Rare from its Preserved",
+    "book_title_ar": "التعليقات الحسان على صحيح ابن حبان وتمييز سقيمه من صحيحه، وشاذه من محفوظه"
+  },
+  {
+    "book_id": "657",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "The Prophet's Prayer Described from the beginning to the end as though you see it",
+    "book_title_ar": "صفة صلاة النبي صلى الله عليه وسلم من التكبير إلى التسليم كأنك تراها"
+  },
+  {
+    "book_id": "680",
+    "category_id": "19",
+    "category_en": "Fiqh Issues",
+    "category_ar": "مسائل فقهية",
+    "book_title_en": "Tarawih Prayer",
+    "book_title_ar": "صلاة التراويح"
+  },
+  {
+    "book_id": "682",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "Ghayat al-Maram fi Takhrij Ahadith al-Halal wal-Haram",
+    "book_title_ar": "غاية المرام في تخريج أحاديث الحلال والحرام"
+  },
+  {
+    "book_id": "692",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "The Story of the Antichrist (Al-Masih ad-Dajjal) and the Descent of Jesus (Isa) peace be upon him",
+    "book_title_ar": "قصة المسيح الدجال ونزول عيسى عليه الصلاة والسلام"
+  },
+  {
+    "book_id": "702",
+    "category_id": "8",
+    "category_en": "Hadith Verification and Narration Chains",
+    "category_ar": "التخريج والأطراف",
+    "book_title_en": "A Scholarly Debate Between the Two Illustrious Imams, Al-Izz bin Abd al-Salam and Ibn al-Salah, Regarding the Innovated Prayer of Al-Raghaib",
+    "book_title_ar": "مساجلة علمية بين الإمامين الجليلين العز بن عبد السلام وابن الصلاح حول صلاة الرغائب المبتدعة"
+  },
+  {
+    "book_id": "705",
+    "category_id": "10",
+    "category_en": "Hadith Sciences",
+    "category_ar": "علوم الحديث",
+    "book_title_en": "The Status of the Sunnah in Islam",
+    "book_title_ar": "منزلة السنة في الإسلام"
+  },
+  {
+    "book_id": "707",
+    "category_id": "1",
+    "category_en": "Creed",
+    "category_ar": "العقيدة",
+    "book_title_en": "Fitnat al-Takfir (The Tribulation of Excommunication)",
+    "book_title_ar": "فتنة التكفير"
+  },
+  {
+    "book_id": "710",
+    "category_id": "39",
+    "category_en": "General Books",
+    "category_ar": "كتب عامة",
+    "book_title_en": "Fiqh al-Waqi' (Jurisprudence of Reality)",
+    "book_title_ar": "فقه الواقع"
+  },
+  {
+    "book_id": "854",
+    "category_id": "18",
+    "category_en": "General Fiqh",
+    "category_ar": "الفقه العام",
+    "book_title_en": "Rules of Funerals (Ahkam al-Jana'iz)",
+    "book_title_ar": "أحكام الجنائز"
+  },
+  {
+    "book_id": "952",
+    "category_id": "4",
+    "category_en": "Quran Sciences and Tafsir Principles",
+    "category_ar": "علوم القرآن وأصول التفسير",
+    "book_title_en": "Imam Al-Biqa'i and His Methodology in Interpreting the Rhetoric of the Qur'an",
+    "book_title_ar": "الإمام البقاعي ومنهاجه في تأويل بلاغة القرآن"
   }
 ]
