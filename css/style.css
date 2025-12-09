@@ -41,15 +41,29 @@ h1 {
     margin-left: 15px;
 }
 
+/* Clean alternating background for book titles */
 .books-list li a {
+    color: #333;              /* consistent dark text */
     text-decoration: none;
-    color: #333;
     display: block;
-    margin: 2px 0;
+    padding: 3px 6px;
+    border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
 }
 
+/* Alternate weak backgrounds */
+.books-list li:nth-child(odd) a {
+    background-color: #f9f9f9; /* very light gray */
+}
+
+.books-list li:nth-child(even) a {
+    background-color: #ececec; /* slightly darker gray */
+}
+
+/* Hover effect */
 .books-list li a:hover {
-    color: #0d6efd;
+    background-color: #d6e0f0; /* soft blue */
+    color: #0d6efd;            /* main theme color */
 }
 
 #book-container {
@@ -214,26 +228,6 @@ h1 {
 }
 
 .menu-controls button:hover {
-    background: #0d6efd;
-    color: white;
-}
-
-/* Colorful book links */
-.books-list li a {
-    padding: 2px 4px;
-    border-radius: 4px;
-    transition: background 0.2s;
-}
-
-.books-list li:nth-child(odd) a {
-    background: #eef7ff;
-}
-
-.books-list li:nth-child(even) a {
-    background: #f7f0ff;
-}
-
-.books-list li a:hover {
     background: #0d6efd;
     color: white;
 }
